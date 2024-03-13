@@ -27,9 +27,7 @@
         "title": "CIP108:title",
         "abstract": "CIP108:abstract",
         "motivation": "CIP108:motivation",
-        "rationale": "CIP108:rationale",
-        "amount": "CIP108:amount",
-        "receivingAddress": "CIP108:receivingAddress"
+        "rationale": "CIP108:rationale"
       }
     },
     "authors": {
@@ -56,17 +54,11 @@
     "abstract": {
       "@value": "test"
     },
-    "amount": {
-      "@value": "2137"
-    },
     "motivation": {
       "@value": "test"
     },
     "rationale": {
       "@value": "test"
-    },
-    "receivingAddress": {
-      "@value": "stake_test1up7jl7nlvx3gque5fyrx4pzvmgvty6s48ckzc60xtjuevtck7v3xq"
     },
     "references": [
       {
@@ -75,12 +67,12 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "http://test.treasury.test"
+          "@value": "http://test.test.test"
         }
       }
     ],
     "title": {
-      "@value": "Treasury test"
+      "@value": "test"
     }
   }
 }
