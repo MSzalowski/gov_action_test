@@ -60,17 +60,7 @@
     "rationale": {
       "@value": "test"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "http://www.test.test"
-        }
-      }
-    ],
+    "references": [],
     "title": {
       "@value": "test"
     }
