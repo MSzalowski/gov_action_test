@@ -57,7 +57,7 @@
       "@value": "test"
     },
     "amount": {
-      "@value": "123123123"
+      "@value": "2137"
     },
     "motivation": {
       "@value": "test"
@@ -66,11 +66,21 @@
       "@value": "test"
     },
     "receivingAddress": {
-      "@value": "bc1q7lv9rq9ljtandg4x060xt38q24ktwgf2j23thl"
+      "@value": "stake_test1up7jl7nlvx3gque5fyrx4pzvmgvty6s48ckzc60xtjuevtck7v3xq"
     },
-    "references": [],
+    "references": [
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://test.treasury.test"
+        }
+      }
+    ],
     "title": {
-      "@value": "Test"
+      "@value": "Treasury test"
     }
   }
 }
