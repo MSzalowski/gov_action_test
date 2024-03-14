@@ -52,17 +52,17 @@
   },
   "body": {
     "abstract": {
-      "@value": "test"
+      "@value": "Test"
     },
     "motivation": {
-      "@value": "test"
+      "@value": "Test"
     },
     "rationale": {
-      "@value": "test"
+      "@value": "Test"
     },
     "references": [],
     "title": {
-      "@value": "test"
+      "@value": "Test"
     }
   }
 }
