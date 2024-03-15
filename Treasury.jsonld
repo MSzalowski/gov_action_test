@@ -52,27 +52,17 @@
   },
   "body": {
     "abstract": {
-      "@value": "test"
+      "@value": "Test"
     },
     "motivation": {
-      "@value": "test"
+      "@value": "Test"
     },
     "rationale": {
-      "@value": "test"
+      "@value": "Test"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "http://test.test.test"
-        }
-      }
-    ],
+    "references": [],
     "title": {
-      "@value": "test"
+      "@value": "Test"
     }
   }
 }
