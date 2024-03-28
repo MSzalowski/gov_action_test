@@ -55,10 +55,10 @@
       "@value": "Test"
     },
     "motivation": {
-      "@value": "oiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejfoiwjefoiwjoiejf"
+      "@value": "Test"
     },
     "rationale": {
-      "@value": "test"
+      "@value": "Test"
     },
     "references": [
       {
@@ -67,12 +67,12 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "http://www.google.com"
+          "@value": "http://google.com"
         }
       }
     ],
     "title": {
-      "@value": "Test_treasury"
+      "@value": "Test"
     }
   }
 }
