@@ -62,11 +62,11 @@
     "references": [
       {
         "@type": "Other",
-        "label": {
+        "CIPQQQ:reference-label": {
           "@value": "Label"
         },
-        "uri": {
-          "@value": "http://www.google.com"
+        "CIPQQQ:reference-uri": {
+          "@value": "https://www.google.com"
         }
       }
     ]
