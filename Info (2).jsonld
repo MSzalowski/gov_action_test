@@ -52,13 +52,13 @@
   },
   "body": {
     "abstract": {
-      "@value": "test"
+      "@value": "Test Info Abstract"
     },
     "motivation": {
-      "@value": "test"
+      "@value": "Test Info Motivation"
     },
     "rationale": {
-      "@value": "test"
+      "@value": "Test Info Rationale"
     },
     "references": [
       {
@@ -72,7 +72,7 @@
       }
     ],
     "title": {
-      "@value": "test"
+      "@value": "Test Info Title"
     }
   }
 }
