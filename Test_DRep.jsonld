@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": "Test"
+      "@value": "Some test metadata"
     },
     "dRepName": {
       "@value": "Test_DRep"
