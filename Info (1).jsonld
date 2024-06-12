@@ -52,10 +52,10 @@
   },
   "body": {
     "abstract": {
-      "@value": "Abstract"
+      "@value": "Test Abstract"
     },
     "motivation": {
-      "@value": "Motivation"
+      "@value": "Test Motivation"
     },
     "rationale": {
       "@value": "Rationale"
@@ -63,16 +63,25 @@
     "references": [
       {
         "@type": "Other",
-        "CIP108:reference-label": {
+        "label": {
           "@value": "Label"
         },
-        "CIP108:reference-uri": {
+        "uri": {
           "@value": "http://www.google.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://www.test.test"
         }
       }
     ],
     "title": {
-      "@value": "Test of new gov action"
+      "@value": "Test title"
     }
   }
 }
