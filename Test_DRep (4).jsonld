@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": "Test"
+      "@value": "John Doe: Passionate writer, tech enthusiast, and avid traveler exploring new horizons."
     },
     "dRepName": {
       "@value": "Test_DRep"
@@ -59,6 +59,34 @@
     "email": {
       "@value": "test@test.test"
     },
-    "references": []
+    "references": [
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://www.google.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://www.test.test33333"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://third.link"
+        }
+      }
+    ]
   }
 }
