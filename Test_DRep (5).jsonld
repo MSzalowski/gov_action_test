@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": "Test"
+      "@value": "test"
     },
     "dRepName": {
       "@value": "Test_DRep"
@@ -59,16 +59,6 @@
     "email": {
       "@value": "test@test.test"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "http://www.google.com"
-        }
-      }
-    ]
+    "references": []
   }
 }
