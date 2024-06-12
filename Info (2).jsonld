@@ -52,27 +52,72 @@
   },
   "body": {
     "abstract": {
-      "@value": "Test Info Abstract"
+      "@value": "Test"
     },
     "motivation": {
-      "@value": "Test Info Motivation"
+      "@value": "Test"
     },
     "rationale": {
-      "@value": "Test Info Rationale"
+      "@value": "Test"
     },
     "references": [
       {
         "@type": "Other",
-        "CIP108:reference-label": {
+        "label": {
           "@value": "Label"
         },
-        "CIP108:reference-uri": {
-          "@value": "http://www.google.com"
+        "uri": {
+          "@value": "http://first.link"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://second.link"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://third.link"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://alotof.links"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://alotof.links"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://alotof.links"
         }
       }
     ],
     "title": {
-      "@value": "Test Info Title"
+      "@value": "Test"
     }
   }
 }
