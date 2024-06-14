@@ -60,26 +60,6 @@
     "rationale": {
       "@value": "Rationale"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "http://www.google.com"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "http://www.test.test"
-        }
-      }
-    ],
     "title": {
       "@value": "Test title"
     }
