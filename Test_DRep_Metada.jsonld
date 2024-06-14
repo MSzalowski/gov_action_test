@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": "I am the DRep, a visionary in the Cardano ecosystem, embodying a profound commitment to decentralized governance. With a rich background in blockchain technology and community leadership, I champion transparency and inclusivity in decision-making processes. My extensive experience ensures informed and strategic voting on critical proposals, fostering innovation and sustainability. My dedication to the Cardano community is reflected in my proactive engagement and continuous advocacy for progress."
+      "@value": "Test DRep Metadata on Re-Register"
     },
     "dRepName": {
       "@value": "Test_DRep_Metadata"
@@ -66,7 +66,7 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "http://www.test.drep.metadata"
+          "@value": "http://www.google.com"
         }
       }
     ]
