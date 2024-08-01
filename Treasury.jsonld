@@ -60,19 +60,9 @@
     "rationale": {
       "@value": "Test"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "CIP108:reference-label": {
-          "@value": "Label"
-        },
-        "CIP108:reference-uri": {
-          "@value": "http://www.google.com"
-        }
-      }
-    ],
+    "references": [],
     "title": {
-      "@value": "Test with no special characters in link"
+      "@value": "Test"
     }
   }
 }
