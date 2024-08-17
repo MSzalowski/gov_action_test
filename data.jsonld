@@ -1,6 +1,5 @@
 {
   "@context": {
-    "@language": "en-us",
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
     "CIP108": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0108/README.md#",
     "hashAlgorithm": "CIP100:hashAlgorithm",
@@ -47,22 +46,12 @@
     }
   },
   "authors": [],
-  "hashAlgorithm": {
-    "@value": "blake2b-256"
-  },
+  "hashAlgorithm": "blake2b-256",
   "body": {
-    "abstract": {
-      "@value": "Test"
-    },
-    "motivation": {
-      "@value": "Test"
-    },
-    "rationale": {
-      "@value": "Test"
-    },
+    "abstract": "Requesting a budget allocation of 2M ADA to fund innovative projects aimed at enhancing Cardano’s ecosystem, fostering community growth, and driving technical advancements. This proposal ensures sustained network development and global adoption.",
+    "motivation": "To maintain Cardano’s competitive edge, it’s crucial to invest in strategic initiatives that drive innovation, support developers, and empower the community, ensuring long-term success.",
+    "rationale": "Allocating this budget will enable targeted investments in key areas, accelerating ecosystem growth and solidifying Cardano’s position as a leading blockchain platform.",
     "references": [],
-    "title": {
-      "@value": "Test"
-    }
+    "title": "Budget proposal"
   }
 }
