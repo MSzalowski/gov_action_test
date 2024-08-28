@@ -48,10 +48,10 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "abstract": "Requesting a budget allocation of 2M ADA to fund innovative projects aimed at enhancing Cardano’s ecosystem, fostering community growth, and driving technical advancements. This proposal ensures sustained network development and global adoption.",
-    "motivation": "To maintain Cardano’s competitive edge, it’s crucial to invest in strategic initiatives that drive innovation, support developers, and empower the community, ensuring long-term success.",
-    "rationale": "Allocating this budget will enable targeted investments in key areas, accelerating ecosystem growth and solidifying Cardano’s position as a leading blockchain platform.",
+    "abstract": "Test",
+    "motivation": "Test",
+    "rationale": "Test",
     "references": [],
-    "title": "Budget proposal"
+    "title": "Test"
   }
 }
