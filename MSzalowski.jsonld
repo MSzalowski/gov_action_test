@@ -54,16 +54,10 @@
   "hashAlgorithm": "blake2b-256",
   "body": {
     "givenName": "MSzalowski",
-    "motivations": "I have always been passionate about the principles of decentralized governance and community-driven decision-making. Cardano's unique approach to governance resonates with my belief that power should be distributed among the many, not concentrated in the hands of a few. Serving as a DRep allows me to actively contribute to this vision and help shape the future of the network.",
-    "objectives": "My primary objective as a DRep is to advocate for and support initiatives that enhance decentralization within the Cardano ecosystem. I believe in a blockchain governed by its community, where power is distributed across diverse stakeholders, ensuring the network remains resilient and democratic.",
-    "paymentAddress": "addr_test1qrsq29zgskdkczlclwz4jdn4qa9mevd4ejgsuwfrpdp7v5wv7ml6htrsqd367fpv88lwvg5w8ffmtlra4ex9vad03yzqjlqm69",
-    "qualifications": "I hold a master's degree in Political Science with a focus on decentralized governance systems. My academic background, coupled with my involvement in several governance-related blockchain projects, has provided me with the theoretical and practical knowledge needed to effectively contribute to Cardano's governance.",
-    "references": [
-      {
-        "@type": "Other",
-        "label": "Label",
-        "uri": "https://test.ai.description"
-      }
-    ]
+    "motivations": "Lack of motivations",
+    "objectives": "No Objectives",
+    "paymentAddress": "addr_test1qzg00kasvm4qglh4qh6m738d9l9sktfns0urvs9mz2jnu6sqvtm0tdy4rvnarjy53dl47payxnm00ewk9yuqu9jgj3kql59syv",
+    "qualifications": "Definitely no qualifications",
+    "references": []
   }
 }
