@@ -49,9 +49,9 @@
   "hashAlgorithm": "blake2b-256",
   "body": {
     "abstract": "Test",
-    "motivation": "Test",
-    "rationale": "Test",
+    "motivation": "Treasury",
+    "rationale": "Gov",
     "references": [],
-    "title": "Test"
+    "title": "Another test of treasury gov action"
   }
 }
