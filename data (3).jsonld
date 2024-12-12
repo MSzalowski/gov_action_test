@@ -51,7 +51,23 @@
     "abstract": "Test",
     "motivation": "Test",
     "rationale": "Test",
-    "references": [],
+    "references": [
+      {
+        "@type": "Other",
+        "label": "Google",
+        "uri": "https://www.google.com"
+      },
+      {
+        "@type": "Other",
+        "label": "Google #2",
+        "uri": "https://www.google.com"
+      },
+      {
+        "@type": "Other",
+        "label": "Test",
+        "uri": "https://www.google.com"
+      }
+    ],
     "title": "Test"
   }
 }
