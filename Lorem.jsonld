@@ -1,0 +1,86 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject",
+            "contentUrl": "CIP119:contentUrl",
+            "sha256": "CIP119:sha256"
+          }
+        },
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "givenName": "Lorem",
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://static01.nyt.com/images/2016/09/28/us/17xp-pepethefrog_web1/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "sha256": "75a607a471b2e56697394c21bb8f5d7a5f2b1313aedc1b57a3f538207ca7c455"
+    },
+    "motivations": "Cras vel magna convallis, mattis nisl a, imperdiet est. Nam sed aliquam urna. Curabitur tempus, diam et eleifend bibendum, ex elit ornare neque, in faucibus est nisl id urna. In hac habitasse platea dictumst. Nulla facilisi. Integer in mollis sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent sed augue euismod, pulvinar tellus eu, lobortis nunc. Curabitur accumsan, sem non ullamcorper consectetur, felis mi imperdiet mauris, sit amet sodales turpis justo ut risus.",
+    "objectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam erat sapien, imperdiet vel justo eu, volutpat pellentesque ipsum. Pellentesque sagittis pellentesque arcu, nec posuere risus imperdiet eu. Proin finibus odio eu nisi congue auctor. Maecenas tempor orci lectus, sed consequat lectus gravida ornare. Integer sit amet vehicula eros. Sed diam lectus, posuere eu faucibus at, consequat id dolor. Pellentesque quis convallis odio, sit amet bibendum turpis. Mauris turpis justo, commodo vitae maximus in, mollis vitae leo.",
+    "paymentAddress": "addr_test1qq99ldkkgm4wstpgngm4rtfmew5pc0r059t4s3dg9rduhn7zzrawsq69tl586xz25j04fwxlx5255d8rkxffn9n9qkpsklcqc2",
+    "qualifications": "Cras vel justo nulla. In fermentum sem eu elementum vulputate. Curabitur iaculis sapien id blandit imperdiet. Aliquam congue viverra magna vel lacinia. Vestibulum pellentesque eget diam quis fermentum. Morbi pretium quam tellus. Curabitur facilisis lectus at bibendum ultricies. Mauris nec tristique ante, a sagittis arcu.",
+    "references": [
+      {
+        "@type": "Link",
+        "label": "X",
+        "uri": "www.x.com"
+      },
+      {
+        "@type": "Identity",
+        "label": "Lipsum",
+        "uri": "https://www.lipsum.com"
+      }
+    ]
+  }
+}
