@@ -13,29 +13,6 @@
           "@context": {
             "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
             "Identity": "CIP119:IdentityReference",
-            "Link": "CIP119:LinkReference",
-            "Other": "CIP100:OtherReference",
-            "label": "CIP100:reference-label",
-            "uri": "CIP100:reference-uri",
-            "referenceHash": {
-              "@id": "CIP119:referenceHash",
-              "@context": {
-                "hashDigest": "CIP119:hashDigest",
-                "hashAlgorithm": "CIP100:hashAlgorithm"
-              }
-            }
-          }
-        },
-        "paymentAddress": "CIP119:paymentAddress",
-        "givenName": "CIP119:givenName",
-        "image": "CIP119:image",
-        "objectives": "CIP119:objectives",
-        "motivations": "CIP119:motivations",
-        "qualifications": "CIP119:qualifications",
-        "doNotList": "CIP119:doNotList"
-      }
-    },
-    "authors": {
       "@id": "CIP100:authors",
       "@container": "@set",
       "@context": {
