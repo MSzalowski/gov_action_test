@@ -61,7 +61,7 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "givenName": "MSzalowski",
+    "givenName": "Test",
     "image": {
       "@type": "ImageObject",
       "contentUrl": "https://avatars.githubusercontent.com/u/24510246?v=4",
